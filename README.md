@@ -27,7 +27,7 @@
 فایل `mtu.py` را دانلود کنید یا ریپازیتوری را روی کامپیوتر خود قرار دهید. سپس در CMD به پوشهٔ پروژه بروید:
 
 ```cmd
-C:\Users\Mhmd\Desktop\Project>
+C:\Users\YouName...\Desktop\Project>
 ```
 
 اجرای تست با مقصدهای پیش‌فرض:
